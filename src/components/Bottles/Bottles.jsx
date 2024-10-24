@@ -48,7 +48,7 @@ const Bottles = () => {
         removeFromLS(id)
         
     }
-
+    
     return (
         <div>
             <h2>Bottles: {bottles.length}</h2>
